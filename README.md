@@ -1,2 +1,2 @@
 # OpenSAI Platform
-Open Source Academic Initiative - OpenSAI 
+MVP OpenSAI Crowdsourcing Education Platform
